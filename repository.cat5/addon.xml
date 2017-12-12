@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.cat5" name="Category5 TV Kodi Repository" version="1.0.0" provider-name="Category5.TV">
+    <extension point="xbmc.addon.repository" name="Category5 TV Kodi Repository">
+        <info compressed="false">http://www.category5.tv/cat5-repo/addons.xml</info>
+        <checksum>http://www.category5.tv/cat5-repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://www.category5.tv/cat5-repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Category5 TV Kodi repository</summary>
+        <description lang="en">A repository of add-ons made and distributed by Category5 TV</description>
+        <summary lang="no">Category5 TVs Kodi-arkiv</summary>
+        <description lang="no">Et kodi-arkiv for tillegg laget og distribuert av Category5 TV</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum></forum>
+	<website>http://www.category5.tv/</website>
+        <source></source>
+        <email>robbie@category5.tv</email>
+    </extension>
+</addon>
