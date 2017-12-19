@@ -6,13 +6,13 @@ Kodi can automatically update the addon.
 
 ## Install this repository
 
-install the Category5.TV Kodi repository by:
+Install the Category5.TV Kodi repository by:
 
 * Downloading the ZIP FILE from [this page](http://www.solbu.net/cat5-repo/repository.cat5/).
   (make sure you put it somewhere you can find it later),
 * Load Kodi and go to system and find "Add-Ons" on the left hand side,
 * Click "Install from zip file".
-* Locate the repository.cat5-master.zip, click once and then press ok.
+* Locate the repository.cat5 zip file, (should be named something like repository.cat5-1.0.0.zip) click once and then press ok.
 
 Please visit http://www.category5.tv/
 
