@@ -1,6 +1,8 @@
 all:
 
-repo:
+clean:
+	rm -rf repo/
+repo: clean
 	./create_repository.py https://github.com/Cat5TV/plugin.video.category5 repository.cat5 --datadir=repo/
 
 publish:
